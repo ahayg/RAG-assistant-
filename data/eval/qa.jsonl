@@ -1,0 +1,10 @@
+{"question": "What value of k is commonly used in Reciprocal Rank Fusion?", "expected_sources": ["rag_overview.md"], "expected_contains": "60"}
+{"question": "How much overlap should neighbouring chunks have?", "expected_sources": ["rag_overview.md"]}
+{"question": "What does the nprobe parameter control in IVF?", "expected_sources": ["vector_databases.md"]}
+{"question": "Which vector database is attractive if I already use PostgreSQL?", "expected_sources": ["vector_databases.md"], "expected_contains": "pgvector"}
+{"question": "What do rotary position embeddings do?", "expected_sources": ["transformers.md"]}
+{"question": "How are sentence embedding models trained?", "expected_sources": ["transformers.md"], "expected_contains": "contrastive"}
+{"question": "What does Mean Reciprocal Rank measure?", "expected_sources": ["evaluation_metrics.md"]}
+{"question": "How many questions should an evaluation set start with?", "expected_sources": ["evaluation_metrics.md"]}
+{"question": "Why does hybrid search help with error codes and rare names?", "expected_sources": ["rag_overview.md"]}
+{"question": "What is HNSW and what is its main drawback?", "expected_sources": ["vector_databases.md"], "expected_contains": "memory"}
